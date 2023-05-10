@@ -1,2 +1,4 @@
 # Pytorch_Learning
-This is the repo for learning pytorch from freecodecamp and other materials and will be specified.
+- Learning Pytorch from freecodecamp
+- Working in jupyter notebooks from google colab and linked with GitHub
+- Also will be working in python files from local computer
